@@ -19,7 +19,8 @@
         "fguillot/picodb": "v1.0.14 ",
         "miniflux/picofeed": "v0.1.35",
         "pda/pheanstalk": "v3.1.0",
-        "ircmaxell/password-compat": "^1.0.4"
+        "ircmaxell/password-compat": "^1.0.4",
+        "ext-pdo_sqlite": "*"
     },
     "require-dev": {
         "phpdocumentor/reflection-docblock": "2.0.4",
